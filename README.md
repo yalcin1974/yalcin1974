@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben Yalçın!
+# 👋 Yalçın
 
 
 
