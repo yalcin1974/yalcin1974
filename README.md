@@ -35,9 +35,8 @@ Ben yazılım geliştirme süreçlerine odaklanmış bir teknik eğitim öğrenc
 
 ---
 
-### 📊 İstatistikler
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yalcin1974&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalcin1974&layout=compact&langs_count=7&theme=dark" />
-</p>
+### 📊 GitHub İstatistiklerim
+![Yalçın's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcin1974&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalcin1974&layout=compact&theme=dark)
 
